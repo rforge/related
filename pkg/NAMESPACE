@@ -1,0 +1,9 @@
+## package has a dynamic library
+useDynLib(related)
+
+export(cleanuprvals,
+       compareestimators,
+       familysim,
+       readgenotypedata,
+       readrelatedoutput,
+       coancestry)
